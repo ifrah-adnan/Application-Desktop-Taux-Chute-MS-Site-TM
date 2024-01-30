@@ -5,6 +5,7 @@ Cette application de bureau permet de calculer le taux de chute des bobines. Le 
 ![Image login](images/login.png)
 
 Voici la page de connexion de notre application. L’administrateur introduit son nom d’utilisateur et son mot de passe. La figure ci-joint représente l’activité d’authentification
+
 ![image invalide](images/password.png)
 
 Si le nom d’utilisateur ou le mot de passe est erroné le système notifiéé l’administrateur par un message [User or Password invalid]
